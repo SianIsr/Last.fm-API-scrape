@@ -66,7 +66,7 @@ method = get_task()
 
 params = {
     "user": username,
-    "api_key": api_key,
+    "api_key": API_KEY,
     "method": method
 }
 
